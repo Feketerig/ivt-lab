@@ -1,0 +1,5 @@
+-Fire a single torpedo and it succeed
+-Fire a single torpedo 2 times and it should fire from the second
+-Fire the second if the first is empty
+-Fire both torpedos
+-Fire both torpedos and fail
